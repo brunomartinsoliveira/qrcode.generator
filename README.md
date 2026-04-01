@@ -27,4 +27,4 @@ cd backend
 ```
 Bruno Martins de Oliveira
 
-https://www.linkedin.com/in/martinsbrunodev/
+https://www.linkedin.com/in/brunooliveiradev/
